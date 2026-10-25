@@ -3,7 +3,7 @@
 My daily journey learning Python, one folder per day.
 
 ## Progress
-- [ ] Day 01
+- [x] Day 01
 - [ ] Day 02
 - [ ] Day 03
 - [ ] Day 04
