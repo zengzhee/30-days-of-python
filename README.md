@@ -14,7 +14,7 @@ My daily journey learning Python, one folder per day.
 - [x] Day 09
 - [x] Day 10
 - [x] Day 11
-- [ ] Day 12
+- [x] Day 12
 - [ ] Day 13
 - [ ] Day 14
 - [ ] Day 15
